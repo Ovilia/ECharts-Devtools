@@ -1,0 +1,21 @@
+{
+  "name": "echarts-devtools",
+  "version": "0.1.0",
+  "description": "ECharts Devtools",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovilia/ECharts-Devtools.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ovilia/ECharts-Devtools/issues"
+  },
+  "homepage": "https://github.com/Ovilia/ECharts-Devtools#readme",
+  "devDependencies": {
+    "del": "^4.0.0",
+    "gulp": "^4.0.0",
+    "gulp-less": "^4.0.1"
+  }
+}
